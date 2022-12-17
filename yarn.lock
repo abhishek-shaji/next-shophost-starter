@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@abhishek-shaji/shophost-react-sdk@^1.36.0":
-  version "1.36.0"
-  resolved "https://npm.pkg.github.com/download/@abhishek-shaji/shophost-react-sdk/1.36.0/6eec8aad626972cb480297f1069cd79e18b92000#6eec8aad626972cb480297f1069cd79e18b92000"
-  integrity sha512-AU0iLpMI6LBfblp3MJUQ5wJpA+SHBq8/8RkAAvFcPYQtnLG9YF/ZsV0QW7/0KylMT/blc5hvPNq5HeZ6ahkAWg==
+"@abhishek-shaji/shophost-react-sdk@^1.38.2":
+  version "1.38.2"
+  resolved "https://npm.pkg.github.com/download/@abhishek-shaji/shophost-react-sdk/1.38.2/c1dde739e85744f3e4ad12f544fddbbffcec12bf#c1dde739e85744f3e4ad12f544fddbbffcec12bf"
+  integrity sha512-PCI8SSuxBg8TNkM6TB/AnHrnmI4BXA7eF5w8/qnEr8D1NXpk6P39qWBp3ReiYu55JcpeOxAbs+UmwKX7j8LuOA==
   dependencies:
     "@googlemaps/google-maps-services-js" "^3.3.10"
     "@headlessui/react" "^1.5.0"

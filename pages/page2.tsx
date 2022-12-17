@@ -24,8 +24,8 @@ export default function Home() {
           <h1 className="font-bold text-9xl text-gray-800 mb-4">
             {t('hello')} - {lang.toUpperCase()}
           </h1>
-          <Link href="/page2" passHref>
-            Page 2
+          <Link href="/" passHref>
+            Page 1
           </Link>
         </div>
       </main>
